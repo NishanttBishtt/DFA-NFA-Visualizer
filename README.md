@@ -259,11 +259,11 @@ Complete the entries below so they accurately reflect the work performed by each
 
 | Team member | Contribution |
 |---|---|
-| Nishant Singh Bisht (S24CSEU1446) | [Enter actual UI/UX, HTML and CSS contribution] |
-| Mayank Tripathi (S24CSEU1460) | [Enter actual automata logic, algorithm design and pseudocode contribution] |
-| Aryan Raj (S24CSEU1441) | [Enter actual automata logic, algorithm design and pseudocode contribution] |
-| Amandeep Pant (S24CSEU1469) | [Enter actual JavaScript implementation contribution] |
-| Krish Verma (S24CSEU2353) | [Enter actual JavaScript implementation contribution] |
+| Nishant Singh Bisht (S24CSEU1446) | Implemented the JavaScript functionality for automaton validation, input processing and state-transition handling. |
+| Mayank Tripathi (S24CSEU1460) | Implemented JavaScript functionality for step-by-step execution, graph visualization, execution history and result presentation. |
+| Aryan Raj (S24CSEU1441) | Designed and developed the user interface using HTML and CSS, including the application layout, input forms, buttons and overall visual presentation. |
+| Amandeep Pant (S24CSEU1469) | Worked on the theoretical logic of DFA and NFA, designed the automata processing approach and developed the corresponding pseudocode. |
+| Krish Verma (S24CSEU2353) | Contributed to algorithm design, DFA/NFA transition logic, state-processing methodology and pseudocode development. |
 
 All members contributed to preparing, reviewing and refining the project report and documentation.
 
